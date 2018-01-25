@@ -1,0 +1,89 @@
+<resources
+    xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">Smb</string>
+    <string name="shell_error">shell create fail</string>
+    <string name="mountpoint_create_error">mount point create fail</string>
+    <string name="mount_exception">mount exception</string>
+    <string name="connect_timeout">connect timeout</string>
+    <string name="mountpoint_lost">mount point not exist</string>
+    <string name="mountpoint_del_error">mount point delete fail</string>
+    <string name="scanningSmbMessage">Scanning Smb Server....</string>
+    <string name="str_folder">folder</string>
+    <string name="openning">Openning,Please wait......</string>
+    <string name="mount_success">mount success.</string>
+    <string name="mount_fail">mount fail.</string>
+    <string name="umount_success">umount success.</string>
+    <string name="umount_fail">umount fail.</string>
+    <string name="smb_host_error">The host:<xliff:g id="IP">%1$s</xliff:g> can\'t reach</string>
+    <string name="network_error_title">network error</string>
+    <string name="network_error_message">network is not available,please setting</string>
+    <string name="network_settings">Settings</string>
+    <string name="new_network_location_title">New/edit samba server</string>
+    <string name="network_location_hint_text">IP Addr</string>
+    <string name="network_location">Server:</string>
+    <string name="network_location_example">Example:</string>
+    <string name="network_location_example_text">192.168.1.100</string>
+    <string name="network_location_user">Username:</string>
+    <string name="network_location_password">Password:</string>
+    <string name="network_location_or">Or</string>
+    <string name="network_location_anonymous">Anonymous</string>
+    <string name="network_location_test">Test</string>
+    <string name="network_location_cancel">Cancel</string>
+    <string name="network_location_ok">OK</string>
+    <string name="network_location_save">Remember password</string>
+    <string name="network_location_null">Error, server path is illegal</string>
+    <string name="username_null">Error, username is empty</string>
+    <string name="password_null">Error, password is empty</string>
+    <string name="network_location_exist">IP Address exist!</string>
+
+    <string name="smb_search">Search</string>
+    <string name="smb_new">New</string>
+    <string name="smb_edit">Edit</string>
+    <string name="smb_delete">Delete</string>
+
+    <string name="login_fail_title">Login failure</string>
+    <string name="relogin_confirm_message">Try new user name/password?</string>
+    <string name="relogin_title">Relogin</string>
+
+    <string name="read_error">Read Error</string>
+    <string name="smb_read_denied">Please Check this Sharefile is Readable or Exist?</string>
+    <string name="read_denied">Please Check this file is Readable or Exist?</string>
+
+    <string name="noapp">There is no application can open this file!</string>
+    <string name="str_openingtitle">Please wait...</string>
+    <string name="str_openingcontext">Opening...</string>
+
+    <string name="str_copyingtitle">Please wait a moment.</string>
+    <string name="str_copyingcontext">Copying...</string>
+    <string name="str_copystop">Stop Copy</string>
+    <string name="str_source">Source: </string>
+    <string name="str_target">Target: </string>
+
+    <string name="copy_fail">Copy Failed</string>
+    <string name="ok">OK</string>
+    <string name="copy_get_file_count">Calculate the numbers of files</string>
+    <string name="copy_interrupt">netWork is disconneted, copy is interrupted</string>
+    <string name="full">the space is full,copy files fail</string>
+    <string name="copy_revocer_text">  is exist, are you sure to recover?</string>
+    <string name="copy_revocer_yes">Recover</string>
+    <string name="copy_revocer_no">Cancel</string>
+    <string name="err_not_free_space">There is not enough space!</string>
+    <string name="error_invalid_path">Invalid Path</string>
+    <string name="edit_copy">Copy</string>
+    <string name="edit_delete">Delete</string>
+    <string name="edit_move">Move</string>
+    <string name="edit_paste">Paste</string>
+    <string name="edit_rename">Rename</string>
+    <string name="edit_share">Share</string>
+    <string name="del_error">fail</string>
+    <string name="err_target_same">Cann\'t copy the file to the same path!</string>
+    <string name="err_target_child">The target path is error!</string>
+    <string name="write_error">Write Permission Denied</string>
+    <string name="cannot_read">can not read</string>
+    <string name="copy_complete">Files copying are complete</string>
+    <string name="makedir_fail">Create File\'s Directory fail</string>
+    <string name="cannot_write">can not write</string>
+    <string name="always">Always</string>
+    <string name="str_cancel">Cancel</string>
+    <string name="str_OK">OK</string>
+</resources>
